@@ -1,2 +1,2 @@
 # HigherMoments
-Contains R and Matlab code of all moments of CIR and Bate's model
+Contains R and Matlab code of all moments of CIR and Bates' model
