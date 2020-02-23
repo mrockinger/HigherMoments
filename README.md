@@ -1,4 +1,3 @@
 # HigherMoments
-Contains R, Matlab and Mathematica code supplementary to the paper "Distributional Properties of Continuous Time Processes: From CIR to Bates" written by Ostap Okhrin, Michael Rockinger and Manuel Schmid.
+Contains R, Matlab, and Mathematica code supplementary to the paper "Distributional Properties of Continuous Time Processes: From CIR to Bates" written by Ostap Okhrin, Michael Rockinger and Manuel Schmid, Feb. 2020.
 
-Please note, that the Matlab code is work in progress and will be uploaded soon.
